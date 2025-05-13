@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>GoalZone - Football Gear</title>
+  <title>Ballin' Co - Football Gear</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
@@ -21,7 +21,7 @@
 
   <section class="hero">
     <h2>Your One-Stop Shop for Football Gear</h2>
-    <p>Find boots, kits, balls, and everything you need to play like a pro.</p>
+    <p>Find boots, kits, balls, and everything you need to play and look like a pro.</p>
     <a href="#products" class="btn">Shop Now</a>
   </section>
 
