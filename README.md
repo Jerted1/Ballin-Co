@@ -70,9 +70,14 @@
 body {
   font-family: 'Segoe UI', sans-serif;
   margin: 0;
-  background: #f2f2f2;
-  color: #222;
+  background-color: #ffffff; /* change to any color like #000, blue, red */
 }
+
+.hero {
+  background: url('https://github.com/Jerted1/Ballin-Co/blob/main/IMG_5035.jpeg') center/cover no-repeat;
+  color: white;
+}
+
 
 header {
   background-color: #008000;
