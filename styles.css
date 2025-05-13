@@ -34,7 +34,7 @@ nav a {
 }
 
 .hero {
-  background: url('https://github.com/Jerted1/Ballin-Co/blob/main/IMG_5035.jpeg') center/cover no-repeat;
+  background-color: #008000; /* green background */
   text-align: center;
   padding: 80px 20px;
 }
