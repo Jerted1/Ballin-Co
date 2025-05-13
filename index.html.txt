@@ -182,9 +182,9 @@ footer {
   <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-auth.js"></script>
   <script>
     const firebaseConfig = {
-      apiKey: "YOUR_API_KEY",
-      authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-      projectId: "YOUR_PROJECT_ID",
+      apiKey: "AIzaSyCMgWJvQakpUEEe4x7CETjjV0Ylan9HQIY",
+      authDomain: "https://jerted1.github.io/Ballin-Co/.firebaseapp.com",
+      projectId: "ballin-co-93741",
       appId: "YOUR_APP_ID"
     };
     firebase.initializeApp(firebaseConfig);
@@ -218,6 +218,8 @@ footer {
   </script>
 </body>
 </html>
+
+<button class="add-to-cart" data-name="Pro Football Boots" data-price="89.99">Add to Cart</button>
 
 // Simple feedback when a product is added to the cart
 document.querySelectorAll("button").forEach(btn => {
